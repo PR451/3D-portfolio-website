@@ -64,6 +64,10 @@ import {
       icon: reactjs,
     },
     {
+      name: "Redux",
+      icon: redux,
+    },
+    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
