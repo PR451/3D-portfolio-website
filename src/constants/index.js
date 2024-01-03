@@ -1,7 +1,7 @@
 import {
     mobile,
-    backend,
     web,
+    backend,
     javascript,
     typescript,
     html,
@@ -20,7 +20,6 @@ import {
     shopify,
     carrent,
     jobit,
-    tripguide,
     threejs,
   } from "../assets";
   
@@ -49,7 +48,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "FullStack Developer",
       icon: backend,
     },
   ];
@@ -108,12 +107,12 @@ import {
   const experiences = [
     {
       title: "Full stack Developer",
-      company_name: "Meta",
+      company_name: "MindBowser InfoSolutions Pvt. Ltd",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Dec 2016 - Nov 2019",
       points: [
-        "Developed web application for client using ReactJS for front-end and NodeJS for back-end.",
+        "Developed web application for client using ReactJS for front-end and NodeJS for back-end. ",
         "Ensured the performance, quality and responsiveness of web application. Wrote readable, maintainable, and well-structured code and reviewed the team's code.",
         "Improved the performance of the client's React Web Application Lighthouse by 50%, resulting in a better end user experience.",
         "Enhanced the client's App loading time by 2x by using React routing and lazy loading of components.",
