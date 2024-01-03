@@ -14,10 +14,7 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+    icon,
     carrent,
     jobit,
     threejs,
@@ -39,14 +36,6 @@ import {
   ];
   
   const services = [
-    {
-      title: "Web Developer",
-      icon: web,
-    },
-    {
-      title: "React Native Developer",
-      icon: mobile,
-    },
     {
       title: "FullStack Developer",
       icon: backend,
@@ -108,8 +97,8 @@ import {
     {
       title: "Full stack Developer",
       company_name: "MindBowser InfoSolutions Pvt. Ltd",
-      icon: meta,
-      iconBg: "#E6DEDD",
+      icon: icon,
+      iconBg: "#5A270F",
       date: "Dec 2016 - Nov 2019",
       points: [
         "Developed web application for client using ReactJS for front-end and NodeJS for back-end. ",
