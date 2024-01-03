@@ -1,6 +1,6 @@
 import {
-    // mobile,
-    // web,
+    mobile,
+    web,
     backend,
     javascript,
     typescript,
