@@ -1,6 +1,6 @@
 import {
-    mobile,
-    web,
+    // mobile,
+    // web,
     backend,
     javascript,
     typescript,
@@ -13,8 +13,7 @@ import {
     mongodb,
     git,
     figma,
-    docker,
-    icon,
+    icon,//mindbowser icon
     carrent,
     jobit,
     threejs,
@@ -90,10 +89,6 @@ import {
     {
       name: "figma",
       icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
     },
   ];
   
