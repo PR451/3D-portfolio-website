@@ -24,9 +24,9 @@ import threejs from "./tech/threejs.svg";
 import icon from "./company/icon.png";
 import icon_freelancer from "./company/icon_freelancer.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import weatherapp from "./weather-app-demo.gif";
+import portfolio from "./portfolio.png";
+import movieLens from "./movieLens.png";
 
 export {
   logo,
@@ -52,6 +52,7 @@ export {
   threejs,
   icon,
   icon_freelancer,
-  carrent,
-  jobit,
+  weatherapp,
+  portfolio,
+  movieLens,
 };

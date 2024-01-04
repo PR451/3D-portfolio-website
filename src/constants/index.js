@@ -15,8 +15,9 @@ import {
     figma,
     icon,//mindbowser icon
     icon_freelancer,
-    carrent,
-    jobit,
+    movieLens,
+    portfolio,
+    weatherapp,
     threejs,
   } from "../assets";
   
@@ -166,24 +167,12 @@ import {
         " In this project I have created website to search Movie/Series. To get trending items, I am using TMDB APIs. Additionally, users can search for movies and view all TV shows based on genre.",
       tags: [
         {
-          name: "react",
+          name: "react, Javascript, MaterialUI, HTML/CSS",
           color: "white-text-gradient",
-        },
-        {
-          name: "Javascript",
-          color: "white-text-gradient",
-        },
-        {
-          name: "MaterialUI",
-          color: "white-text-gradient",
-        },
-        {
-            name: "HTML/CSS",
-            color: "white-text-gradient",
         },
 
       ],
-      image: carrent,
+      image: movieLens,
       source_code_link: "https://github.com/PR451/MovieLens",
     },
     {
@@ -192,24 +181,12 @@ import {
         "It is simple weather app built using ReactJS and OpenWeatherMap to get weather details for particular city. The weather details include Current Temperature, wind speed, humidity %, pressure, sunrise and sunset time, and also weather forecast for next 48 hours",
       tags: [
         {
-          name: "react",
+          name: "react, Javascript, Axios, HTML/CSS",
           color: "white-text-gradient",
-        },
-        {
-          name: "Javascript",
-          color: "white-text-gradient",
-        },
-        {
-          name: "Axios",
-          color: "white-text-gradient",
-        },
-        {
-            name: "HTML/CSS",
-            color: "white-text-gradient",
         },
 
       ],
-      image: jobit,
+      image: weatherapp,
       source_code_link: "https://github.com/PR451/weather-app",
     },
     {
@@ -218,24 +195,11 @@ import {
         "It is a Portfolio website I created using ReactJs, Css3 and Javascript. Created this website to showcase my skills. This is my first portfolio website. This website shows all my projects, background and Experience.  ",
       tags: [
         {
-          name: "ReactJs",
+          name: "ReactJs, Css3, Javascript, HTML/CSS",
           color: "white-text-gradient",
         },
-        {
-          name: "Css3",
-          color: "white-text-gradient",
-        },
-        {
-          name: "Javascript",
-          color: "white-text-gradient",
-        },
-        {
-            name: "HTML/CSS",
-            color: "white-text-gradient",
-        },
-
       ],
-      image: jobit,
+      image: portfolio,
       source_code_link: "https://github.com/PR451/portfolio",
     },
   ];
