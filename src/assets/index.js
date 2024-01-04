@@ -22,6 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import icon from "./company/icon.png";
+import icon_freelancer from "./company/icon_freelancer.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -50,7 +51,7 @@ export {
   typescript,
   threejs,
   icon,
+  icon_freelancer,
   carrent,
   jobit,
-  tripguide,
 };

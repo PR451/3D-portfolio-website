@@ -14,6 +14,7 @@ import {
     git,
     figma,
     icon,//mindbowser icon
+    icon_freelancer,
     carrent,
     jobit,
     threejs,
@@ -38,6 +39,10 @@ import {
     {
       title: "FullStack Developer",
       icon: backend,
+    },
+    {
+      title: "Freelance Developer",
+      icon: web,
     },
   ];
   
@@ -110,6 +115,21 @@ import {
         "Developed web applications and components, including best software Testing practices.",
       ],
     },
+    {
+      title: "Freelance Full stack Developer",
+      company_name: "Freelance",
+      icon: icon_freelancer,
+      iconBg: "#5A270F",
+      date: "Jan 2023 - Present",
+      points: [
+        "Accumulated extensive experience in crafting end-to-end solutions for a diverse range of projects.",
+        "Leveraging my skills in both front-end and back-end development, I've successfully delivered robust and user-friendly applications.",
+        "collaborated closely with clients to understand their specific requirements, ensuring that the final products not only meet but exceed expectations.",
+        "My work has involved utilizing various technologies such as HTML, CSS, JavaScript for the front end, and languages like Python, Node.js for the back end.",
+        "I have integrated databases and employed frameworks like React and Angular for efficient UI development.",
+        "My commitment to staying updated with the latest industry trends and my passion for creating seamless digital experiences have been integral to my success as a freelancer Full Stack Developer.",
+      ],
+    },
   ];
   
   const testimonials = [
@@ -147,19 +167,19 @@ import {
       tags: [
         {
           name: "react",
-          color: "blue-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "Javascript",
-          color: "green-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "MaterialUI",
-          color: "pink-text-gradient",
+          color: "white-text-gradient",
         },
         {
             name: "HTML/CSS",
-            color: "pink-text-gradient",
+            color: "white-text-gradient",
         },
 
       ],
@@ -173,24 +193,50 @@ import {
       tags: [
         {
           name: "react",
-          color: "blue-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "Javascript",
-          color: "green-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "Axios",
-          color: "pink-text-gradient",
+          color: "white-text-gradient",
         },
         {
             name: "HTML/CSS",
-            color: "pink-text-gradient",
+            color: "white-text-gradient",
         },
 
       ],
       image: jobit,
       source_code_link: "https://github.com/PR451/weather-app",
+    },
+    {
+      name: "Portfolio website",
+      description:
+        "It is a Portfolio website I created using ReactJs, Css3 and Javascript. Created this website to showcase my skills. This is my first portfolio website. This website shows all my projects, background and Experience.  ",
+      tags: [
+        {
+          name: "ReactJs",
+          color: "white-text-gradient",
+        },
+        {
+          name: "Css3",
+          color: "white-text-gradient",
+        },
+        {
+          name: "Javascript",
+          color: "white-text-gradient",
+        },
+        {
+            name: "HTML/CSS",
+            color: "white-text-gradient",
+        },
+
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/PR451/portfolio",
     },
   ];
   
