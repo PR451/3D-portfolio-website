@@ -147,6 +147,7 @@ import {
       ],
       image: movieLens,
       source_code_link: "https://github.com/PR451/MovieLens",
+      demo_link: "https://stalwart-souffle-df5e79.netlify.app/",
     },
     {
       name: "Weather App",
@@ -161,6 +162,7 @@ import {
       ],
       image: weatherapp,
       source_code_link: "https://github.com/PR451/weather-app",
+      demo_link: "https://pr451.github.io/weather-app/",
     },
     {
       name: "Portfolio website",
@@ -174,6 +176,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/PR451/portfolio",
+      demo_link: "https://pr451.github.io/portfolio/",
     },
   ];
   
